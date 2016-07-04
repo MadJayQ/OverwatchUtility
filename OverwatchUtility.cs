@@ -142,7 +142,7 @@ namespace OverwatchUtility
             function(callback.Message); //Execute our callback from the dictionary
         }
 
-        static void ReportFagFromAccount(AccountInfo accountInfo)
+        static void ReportAccount(AccountInfo accountInfo)
         {
             details = new SteamUser.LogOnDetails { Username = accountInfo.user, Password = accountInfo.pass };
             client = new SteamClient();
@@ -222,7 +222,7 @@ namespace OverwatchUtility
             Console.WriteLine("Target User is: {0}", targetID.AccountID);
             foreach(var accountInfo in Accounts)
             {
-                ReportFagFromAccount(accountInfo);
+                ReportAccount(accountInfo);
             }
         }
     }
