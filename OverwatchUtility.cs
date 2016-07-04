@@ -11,7 +11,7 @@ using SteamKit2.GC;
 using SteamKit2.GC.Internal;
 using SteamKit2.GC.CSGO.Internal;
 
-namespace GameSenseOverwatchUtility
+namespace OverwatchUtility
 {
 
     struct AccountInfo
