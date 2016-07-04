@@ -1,5 +1,9 @@
 # OverwatchUtility
-Overwatch Report System using VoiDeD and Netshroud's SteamKit, based on Askwrite's CS:GO node-js bot
+SteamKit Example of sending Protobuf messages to create reports in Counter-Strike:Global Offensive
+
+Using VoiDeD and Netshroud's [SteamKit](https://github.com/SteamRE/SteamKit)
+
+SteamKit Example based on [Askwrite's CS:GO Report Bot](https://github.com/Askwrite/node-csgo-reportbot)
 
 Credits: Whoever originally came up with this idea
 
