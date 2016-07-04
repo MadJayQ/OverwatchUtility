@@ -1,5 +1,5 @@
 # OverwatchUtility
-SteamKit Example of sending Protobuf messages to create reports in Counter-Strike:Global Offensive
+SteamKit Example of sending in-game reports using SteamKit's SteamGameCoordinator for Counter-Strike:Global Offsensive
 
 Using VoiDeD and Netshroud's [SteamKit](https://github.com/SteamRE/SteamKit)
 
