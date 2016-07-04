@@ -8,9 +8,7 @@ Credits: Whoever originally came up with this idea
 
 Run the utility and enter the Steam64ID of the target
 
-You can find this at 
+You can find the target's SteamID64 and more at: https://steamid.io/
 
-https://steamid.io/
-
-Example of utility being used
+##Example of utility being used
 ![](http://i.imgur.com/7FXO4Xj.png)
