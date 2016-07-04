@@ -10,4 +10,4 @@ Run the utility and enter the Steam64ID of the target
 You can find this at https://steamid.io/
 
 Example of utility being used
-![](http://imgur.com/a/nTRa1)
+![](http://i.imgur.com/7FXO4Xj.png)
