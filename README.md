@@ -14,5 +14,3 @@ Run the utility and enter the Steam64ID of the target
 
 You can find the target's SteamID64 and more at: https://steamid.io/
 
-##Example
-![](http://i.imgur.com/7FXO4Xj.png)
